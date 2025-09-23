@@ -34,12 +34,13 @@ packaging==24.2
 pandas==2.3.2
 pillow==11.3.0
 protobuf==5.29.5
-pyarrow==21.0.0
+pyarrow==21.0.2
 pydantic==2.11.9
 pydantic_core==2.33.2
 pydeck==0.9.1
 Pygments==2.19.2
 python-dateutil==2.9.0.post0
+python-dotenv==1.0.0
 pytz==2025.2
 PyYAML==6.0.2
 referencing==0.36.2
